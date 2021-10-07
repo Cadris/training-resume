@@ -13,3 +13,6 @@ body{
 .font-big-small{
     font-size: 1.3rem;
 }
+.list-group li{
+    border: 0 none;
+}
