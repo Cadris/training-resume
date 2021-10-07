@@ -1,3 +1,4 @@
 :root{
-    --body-background: rgb(0, 0, 0);
+    --full-body-normal-text: rgb(0, 0, 0);
+    --custom-light-grey: rgb(163, 163, 163);
 }

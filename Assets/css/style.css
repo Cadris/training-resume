@@ -2,4 +2,14 @@
 @import "variables.css";
 body{
     font-family: 'Ubuntu', sans-serif;
+    color: var(--full-body-normal-text);
+}
+.custom-light-grey{
+    color: var(--custom-light-grey);
+}
+.font-big{
+    font-size: 2rem;
+}
+.font-big-small{
+    font-size: 1.3rem;
 }
